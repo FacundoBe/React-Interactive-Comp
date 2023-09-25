@@ -1,0 +1,38 @@
+.banner {
+    display: flex;
+    align-items: flex-start;
+    padding: 16px;
+    gap: 12px;
+    border-radius: 6px;
+    min-width: 1196px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;    
+}
+
+.icon {
+    display: flex;
+    font-size: 1.2rem;
+}
+
+.content h2 {
+    display: flex;
+    align-items: flex-start;
+    font-size: 1rem;
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    line-height: 20px;
+    
+}
+.content p {
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    margin: 0;
+    margin-top : 10px;
+}

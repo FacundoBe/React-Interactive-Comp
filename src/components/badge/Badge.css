@@ -1,0 +1,6 @@
+.badge {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    padding: 2px 12px;
+}
