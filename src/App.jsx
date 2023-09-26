@@ -1,6 +1,6 @@
 import './App.css'
-import Badge from './components/badge/Badge'
-import Banner from './components/banners/Banner'
+import Badge from './components/badge/Badge.jsx'
+import Banner from './components/banners/Banner.jsx'
 function App() {
 
   return (
